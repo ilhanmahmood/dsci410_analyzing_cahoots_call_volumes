@@ -10,6 +10,8 @@ The central focus is on how demand shifted across agencies — particularly
 toward EPD — following the discontinuation of CAHOOTS alternative crisis 
 response services in Eugene.
 
+Currently, this notebook includes data preparation and cleaning steps. 
+
 ## Research Questions
 - How do temporal call patterns differ between Eugene and Springfield, 
   particularly in terms of demand for alternative crisis response 
@@ -33,10 +35,9 @@ Install all dependencies with:
 ## How to Run
 1. Clone this repository
 2. Place all raw data files in the data/ folder
-3. Run cad_cleaning.ipynb to produce cad_clean_2015_2025.csv
-4. Run spd_cleaning.ipynb to produce spd_clean_2015_2025.csv
-5. Run analysis.ipynb for exploratory analysis and visualizations
-   (Note: analysis.ipynb is currently in progress)
+3. Unzip the "2015-2025_SPD_Responding_Units.xslx" file
+4. Run cad_cleaning.ipynb to produce cad_clean_2015_2025.csv
+5. Run spd_cleaning.ipynb to produce spd_clean_2015_2025.csv
 
 ## Data Sources
 - Eugene CAD data: City of Eugene public 911 Computer-Aided Dispatch system
