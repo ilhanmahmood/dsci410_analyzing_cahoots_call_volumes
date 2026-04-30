@@ -34,7 +34,7 @@ Install all dependencies with:
 
 ## How to Run
 1. Clone this repository
-2. Place all raw data files in the data/ folder
+2. Makes sure all raw data files in the data/ folder
 3. Unzip the "2015-2025_SPD_Responding_Units.xslx" file
 4. Run cad_cleaning.ipynb to produce cad_clean_2015_2025.csv
 5. Run spd_cleaning.ipynb to produce spd_clean_2015_2025.csv
