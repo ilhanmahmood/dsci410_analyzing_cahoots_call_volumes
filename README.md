@@ -10,6 +10,8 @@ The central focus is on how demand shifted across agencies — particularly
 toward EPD — following the discontinuation of CAHOOTS alternative crisis 
 response services in Eugene.
 
+**Output files are attached**
+
 ## Research Questions
 - How do temporal call patterns differ between Eugene and Springfield, 
   particularly in terms of demand for alternative crisis response 
