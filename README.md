@@ -29,10 +29,11 @@ The following Python packages are required to run the notebooks:
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - openpyxl (required for reading the SPD Excel file)
 
 Install all dependencies with:
-    pip install pandas numpy openpyxl matplotlib
+    pip install pandas numpy openpyxl matplotlib seaborn
 
 ## How to Run
 1. Clone this repository
