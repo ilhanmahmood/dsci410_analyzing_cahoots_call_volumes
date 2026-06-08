@@ -12,6 +12,8 @@ This project analyzes temporal patterns in emergency response call volumes acros
 
 ---
 
+**Output files are attached**
+
 ## Research Questions
 
 - **Main RQ:** How did call volumes and agency demand patterns in Eugene change after CAHOOTS discontinued services on April 7, 2025, and what does this suggest about whether former CAHOOTS calls were redistributed to other agencies?
